@@ -3,14 +3,10 @@
   "description": "simple lightweight nodejs profiling tool",
   "version": "0.1.0",
   "homepage": "https://github.com/alanclarke/speedsnitch",
-  "author": {
-    "name": "Alan Clarke",
-    "email": "self@alz.so",
-    "url": "alz.so"
-  },
+  "author": "Alan Clarke <code@alz.io> (alz.io)",
   "repository": {
     "type": "git",
-    "url": "git@github.com:alanclarke/speedsnitch.git"
+    "url": "git+ssh://git@github.com/alanclarke/speedsnitch.git"
   },
   "bugs": {
     "url": "https://github.com/alanclarke/speedsnitch/issues"
@@ -31,5 +27,10 @@
   "devDependencies": {
     "grunt": "~0.3.11"
   },
-  "keywords": []
+  "keywords": [],
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "license": "ISC"
 }
