@@ -1,7 +1,7 @@
 {
   "name": "speedsnitch",
   "description": "simple lightweight nodejs profiling tool",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/alanclarke/speedsnitch",
   "author": "Alan Clarke <code@alz.io> (alz.io)",
   "repository": {
